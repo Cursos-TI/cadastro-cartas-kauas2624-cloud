@@ -6,6 +6,7 @@
 
 int main() {
  printf("Desafio Xadrez!\n");
+ printf ("novo commit\n");
   // Área para definição das variáveis para armazenar as propriedades das cidades
 
   // Área para entrada de dados
