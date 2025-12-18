@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     // --- DADOS DA CARTA 1: SALVADOR ---
     char estado1[50] = "Bahia";
